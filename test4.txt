@@ -1,5 +1,0 @@
-This is the first line of test4.txt file
-This is the second line of test4.txt file
-This is the third line of test4.txt file
-
-
